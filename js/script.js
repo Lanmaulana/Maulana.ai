@@ -3,7 +3,7 @@ const userInput = document.getElementById('user-input');
 const chatBox = document.getElementById('chat-box');
 
 // Ganti dengan API Key Gemini kamu
-const GEMINI_API_KEY = "AIza.....";
+const GEMINI_API_KEY = "AIzaSyAIiAJS1S2woMiLtwnT_EywWilmPWZ473A";
 
 chatForm.addEventListener('submit', async (e) => {
   e.preventDefault();
